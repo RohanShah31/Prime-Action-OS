@@ -2,7 +2,6 @@
 
 PrimeActionOS is a high-fidelity, full-stack Enterprise AI platform designed to act as an "Executive Copilot" for CFOs and operations leaders. It bridges the gap between raw enterprise ERP data (like SAP) and strategic decision-making by analyzing anomalies, projecting financial impacts, and generating AI-driven recommendations in real-time.
 
-![PrimeActionOS Dashboard](https://via.placeholder.com/1200x600?text=PrimeActionOS+Dashboard+Screenshot)
 
 ## Overview
 Traditional ERP systems contain massive amounts of data but lack the intelligence to provide immediate, strategic guidance. PrimeActionOS solves this by simulating an ingestion pipeline from an enterprise SAP environment and feeding it into an AI-powered financial simulation engine. Executives can interact with a live AI Copilot to query their data, explore interactive digital twins of their supply chain, and instantly see the EBITDA impact of supply chain anomalies.

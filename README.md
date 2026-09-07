@@ -143,14 +143,4 @@ Once the backend is running, FastAPI automatically generates interactive OpenAPI
 * **Authentication:** Integrate OAuth2 (e.g., Azure AD) for secure enterprise login.
 * **Dockerization:** Add Dockerfiles and `docker-compose.yml` for unified, one-click container deployment.
 
-## Screenshots
 
-*(Add screenshots of your application here)*
-* `![Command Center](./docs/command-center.png)`
-* `![Digital Twin](./docs/digital-twin.png)`
-
-## Contributors
-* Developed as an Enterprise AI Architecture Prototype.
-
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.

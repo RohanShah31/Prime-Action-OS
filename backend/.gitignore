@@ -1,0 +1,24 @@
+# --- Secrets & Environment Variables ---
+.env
+.env.*
+
+# --- Compiled Python Files ---
+__pycache__/
+*.py[cod]
+*$py.class
+
+# --- Virtual Environments ---
+venv/
+env/
+.venv/
+
+# --- IDEs and OS Files ---
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# --- Testing / Coverage ---
+.pytest_cache/
+htmlcov/
+.coverage
